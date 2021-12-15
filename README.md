@@ -1,5 +1,5 @@
 # Respositório do desafio de projeto sobre Git/GitHub da DIO
-Desafio de projeto sobre Git/GitHub
+Este é meu primeiro repositório criado durante o _bootcamp_ da Digital Inovation One.
 
 ## Links uteis
 
