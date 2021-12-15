@@ -1,0 +1,9 @@
+Comandos básicos para o Git
+
+	git status - verifica o estado da pasta
+	git add * - adiciona todas as modificações feitas na pasta para serem commitadas
+	git commit -m "(Dados da atualização)"- commita a modificação
+	git push (nome do arquivo, ex: origin) master - envia a modificação pro github
+	git pull (nome do arquivo, ex: origin) master - puxa o arquivo para a máquina (normalmente
+		usado para resolver erros de mudança de código em locais iguais)
+	ls -a - mostra pastas/repositórios ocultos
